@@ -1,6 +1,6 @@
 # Benchmarks
 
-You might want to add new benchmarks.
+You might want to add new benchmarks..
 
 You will need to define a python function named `run_benchmark` in your python file and the file must be located in this `benchmark/` directory.
 
